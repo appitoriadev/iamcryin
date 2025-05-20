@@ -5,9 +5,9 @@ import com.rincondelbosque.demo.service.ConsumoService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
-// import io.swagger.v3.oas.annotations.Operation;
-// import io.swagger.v3.oas.annotations.parameters.RequestBody;
-// import org.springframework.web.bind.annotation.PathVariable;
+import io.swagger.v3.oas.annotations.Operation;
+import io.swagger.v3.oas.annotations.parameters.RequestBody;
+import org.springframework.web.bind.annotation.PathVariable;
 
 
 import java.util.List;
@@ -19,7 +19,7 @@ public class ConsumoController {
     private ConsumoService consumoService;
 
     @GetMapping
-    // @Operation(summary="Listar todos los consumos", description="Usado para listar todos los consumos")
+    @Operation(summary="Listar todos los consumos", description="Usado para listar todos los consumos")
     public List<ConsumoResponse> listarConsumos() {
         return consumoService.listarTodos();
     }
