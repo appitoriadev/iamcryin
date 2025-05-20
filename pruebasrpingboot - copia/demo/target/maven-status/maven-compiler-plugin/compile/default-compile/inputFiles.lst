@@ -1,33 +1,35 @@
-C:\Users\gabri\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Escritorio\pruebasrpingboot - copia\demo\src\main\java\com\rincondelbosque\controller\ConsumoController.java
-C:\Users\gabri\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Escritorio\pruebasrpingboot - copia\demo\src\main\java\com\rincondelbosque\controller\FacturaController.java
-C:\Users\gabri\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Escritorio\pruebasrpingboot - copia\demo\src\main\java\com\rincondelbosque\controller\MembresiaController.java
-C:\Users\gabri\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Escritorio\pruebasrpingboot - copia\demo\src\main\java\com\rincondelbosque\controller\PersonaController.java
-C:\Users\gabri\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Escritorio\pruebasrpingboot - copia\demo\src\main\java\com\rincondelbosque\demo\DemoApplication.java
-C:\Users\gabri\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Escritorio\pruebasrpingboot - copia\demo\src\main\java\com\rincondelbosque\dto\request\ConsumoRequest.java
-C:\Users\gabri\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Escritorio\pruebasrpingboot - copia\demo\src\main\java\com\rincondelbosque\dto\request\DetalleFacturaRequest.java
-C:\Users\gabri\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Escritorio\pruebasrpingboot - copia\demo\src\main\java\com\rincondelbosque\dto\request\FacturaRequest.java
-C:\Users\gabri\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Escritorio\pruebasrpingboot - copia\demo\src\main\java\com\rincondelbosque\dto\request\MembresiaRequest.java
-C:\Users\gabri\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Escritorio\pruebasrpingboot - copia\demo\src\main\java\com\rincondelbosque\dto\request\PersonaRequest.java
-C:\Users\gabri\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Escritorio\pruebasrpingboot - copia\demo\src\main\java\com\rincondelbosque\dto\response\ConsumoResponse.java
-C:\Users\gabri\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Escritorio\pruebasrpingboot - copia\demo\src\main\java\com\rincondelbosque\dto\response\DetalleFacturaResponse.java
-C:\Users\gabri\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Escritorio\pruebasrpingboot - copia\demo\src\main\java\com\rincondelbosque\dto\response\FacturaResponse.java
-C:\Users\gabri\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Escritorio\pruebasrpingboot - copia\demo\src\main\java\com\rincondelbosque\dto\response\MembresiaResponse.java
-C:\Users\gabri\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Escritorio\pruebasrpingboot - copia\demo\src\main\java\com\rincondelbosque\dto\response\PersonaResponse.java
-C:\Users\gabri\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Escritorio\pruebasrpingboot - copia\demo\src\main\java\com\rincondelbosque\model\Consumo.java
-C:\Users\gabri\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Escritorio\pruebasrpingboot - copia\demo\src\main\java\com\rincondelbosque\model\DetalleFactura.java
-C:\Users\gabri\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Escritorio\pruebasrpingboot - copia\demo\src\main\java\com\rincondelbosque\model\Factura.java
-C:\Users\gabri\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Escritorio\pruebasrpingboot - copia\demo\src\main\java\com\rincondelbosque\model\Membresia.java
-C:\Users\gabri\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Escritorio\pruebasrpingboot - copia\demo\src\main\java\com\rincondelbosque\model\Persona.java
-C:\Users\gabri\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Escritorio\pruebasrpingboot - copia\demo\src\main\java\com\rincondelbosque\repository\ConsumoRepository.java
-C:\Users\gabri\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Escritorio\pruebasrpingboot - copia\demo\src\main\java\com\rincondelbosque\repository\DetalleFacturaRepository.java
-C:\Users\gabri\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Escritorio\pruebasrpingboot - copia\demo\src\main\java\com\rincondelbosque\repository\FacturaRepository.java
-C:\Users\gabri\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Escritorio\pruebasrpingboot - copia\demo\src\main\java\com\rincondelbosque\repository\MembresiaRepository.java
-C:\Users\gabri\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Escritorio\pruebasrpingboot - copia\demo\src\main\java\com\rincondelbosque\repository\PersonaRepository.java
-C:\Users\gabri\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Escritorio\pruebasrpingboot - copia\demo\src\main\java\com\rincondelbosque\service\ConsumoService.java
-C:\Users\gabri\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Escritorio\pruebasrpingboot - copia\demo\src\main\java\com\rincondelbosque\service\FacturaService.java
-C:\Users\gabri\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Escritorio\pruebasrpingboot - copia\demo\src\main\java\com\rincondelbosque\service\impl\ConsumoServiceImpl.java
-C:\Users\gabri\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Escritorio\pruebasrpingboot - copia\demo\src\main\java\com\rincondelbosque\service\impl\FacturaServiceImpl.java
-C:\Users\gabri\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Escritorio\pruebasrpingboot - copia\demo\src\main\java\com\rincondelbosque\service\impl\MembresiaServiceImpl.java
-C:\Users\gabri\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Escritorio\pruebasrpingboot - copia\demo\src\main\java\com\rincondelbosque\service\impl\PersonaServiceImpl.java
-C:\Users\gabri\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Escritorio\pruebasrpingboot - copia\demo\src\main\java\com\rincondelbosque\service\MembresiaService.java
-C:\Users\gabri\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Escritorio\pruebasrpingboot - copia\demo\src\main\java\com\rincondelbosque\service\PersonaService.java
+/Users/apitoria/source/repos/iamcryin/pruebasrpingboot - copia/demo/src/main/java/com/rincondelbosque/demo/DemoApplication.java
+/Users/apitoria/source/repos/iamcryin/pruebasrpingboot - copia/demo/src/main/java/com/rincondelbosque/demo/config/SwaggerConfig.java
+/Users/apitoria/source/repos/iamcryin/pruebasrpingboot - copia/demo/src/main/java/com/rincondelbosque/demo/controller/ConsumoController.java
+/Users/apitoria/source/repos/iamcryin/pruebasrpingboot - copia/demo/src/main/java/com/rincondelbosque/demo/controller/FacturaController.java
+/Users/apitoria/source/repos/iamcryin/pruebasrpingboot - copia/demo/src/main/java/com/rincondelbosque/demo/controller/HealthCheckController.java
+/Users/apitoria/source/repos/iamcryin/pruebasrpingboot - copia/demo/src/main/java/com/rincondelbosque/demo/controller/MembresiaController.java
+/Users/apitoria/source/repos/iamcryin/pruebasrpingboot - copia/demo/src/main/java/com/rincondelbosque/demo/controller/PersonaController.java
+/Users/apitoria/source/repos/iamcryin/pruebasrpingboot - copia/demo/src/main/java/com/rincondelbosque/demo/dto/request/ConsumoRequest.java
+/Users/apitoria/source/repos/iamcryin/pruebasrpingboot - copia/demo/src/main/java/com/rincondelbosque/demo/dto/request/DetalleFacturaRequest.java
+/Users/apitoria/source/repos/iamcryin/pruebasrpingboot - copia/demo/src/main/java/com/rincondelbosque/demo/dto/request/FacturaRequest.java
+/Users/apitoria/source/repos/iamcryin/pruebasrpingboot - copia/demo/src/main/java/com/rincondelbosque/demo/dto/request/MembresiaRequest.java
+/Users/apitoria/source/repos/iamcryin/pruebasrpingboot - copia/demo/src/main/java/com/rincondelbosque/demo/dto/request/PersonaRequest.java
+/Users/apitoria/source/repos/iamcryin/pruebasrpingboot - copia/demo/src/main/java/com/rincondelbosque/demo/dto/response/ConsumoResponse.java
+/Users/apitoria/source/repos/iamcryin/pruebasrpingboot - copia/demo/src/main/java/com/rincondelbosque/demo/dto/response/DetalleFacturaResponse.java
+/Users/apitoria/source/repos/iamcryin/pruebasrpingboot - copia/demo/src/main/java/com/rincondelbosque/demo/dto/response/FacturaResponse.java
+/Users/apitoria/source/repos/iamcryin/pruebasrpingboot - copia/demo/src/main/java/com/rincondelbosque/demo/dto/response/MembresiaResponse.java
+/Users/apitoria/source/repos/iamcryin/pruebasrpingboot - copia/demo/src/main/java/com/rincondelbosque/demo/dto/response/PersonaResponse.java
+/Users/apitoria/source/repos/iamcryin/pruebasrpingboot - copia/demo/src/main/java/com/rincondelbosque/demo/model/Consumo.java
+/Users/apitoria/source/repos/iamcryin/pruebasrpingboot - copia/demo/src/main/java/com/rincondelbosque/demo/model/DetalleFactura.java
+/Users/apitoria/source/repos/iamcryin/pruebasrpingboot - copia/demo/src/main/java/com/rincondelbosque/demo/model/Factura.java
+/Users/apitoria/source/repos/iamcryin/pruebasrpingboot - copia/demo/src/main/java/com/rincondelbosque/demo/model/Membresia.java
+/Users/apitoria/source/repos/iamcryin/pruebasrpingboot - copia/demo/src/main/java/com/rincondelbosque/demo/model/Persona.java
+/Users/apitoria/source/repos/iamcryin/pruebasrpingboot - copia/demo/src/main/java/com/rincondelbosque/demo/repository/ConsumoRepository.java
+/Users/apitoria/source/repos/iamcryin/pruebasrpingboot - copia/demo/src/main/java/com/rincondelbosque/demo/repository/DetalleFacturaRepository.java
+/Users/apitoria/source/repos/iamcryin/pruebasrpingboot - copia/demo/src/main/java/com/rincondelbosque/demo/repository/FacturaRepository.java
+/Users/apitoria/source/repos/iamcryin/pruebasrpingboot - copia/demo/src/main/java/com/rincondelbosque/demo/repository/MembresiaRepository.java
+/Users/apitoria/source/repos/iamcryin/pruebasrpingboot - copia/demo/src/main/java/com/rincondelbosque/demo/repository/PersonaRepository.java
+/Users/apitoria/source/repos/iamcryin/pruebasrpingboot - copia/demo/src/main/java/com/rincondelbosque/demo/service/ConsumoService.java
+/Users/apitoria/source/repos/iamcryin/pruebasrpingboot - copia/demo/src/main/java/com/rincondelbosque/demo/service/FacturaService.java
+/Users/apitoria/source/repos/iamcryin/pruebasrpingboot - copia/demo/src/main/java/com/rincondelbosque/demo/service/MembresiaService.java
+/Users/apitoria/source/repos/iamcryin/pruebasrpingboot - copia/demo/src/main/java/com/rincondelbosque/demo/service/PersonaService.java
+/Users/apitoria/source/repos/iamcryin/pruebasrpingboot - copia/demo/src/main/java/com/rincondelbosque/demo/service/impl/ConsumoServiceImpl.java
+/Users/apitoria/source/repos/iamcryin/pruebasrpingboot - copia/demo/src/main/java/com/rincondelbosque/demo/service/impl/FacturaServiceImpl.java
+/Users/apitoria/source/repos/iamcryin/pruebasrpingboot - copia/demo/src/main/java/com/rincondelbosque/demo/service/impl/MembresiaServiceImpl.java
+/Users/apitoria/source/repos/iamcryin/pruebasrpingboot - copia/demo/src/main/java/com/rincondelbosque/demo/service/impl/PersonaServiceImpl.java
