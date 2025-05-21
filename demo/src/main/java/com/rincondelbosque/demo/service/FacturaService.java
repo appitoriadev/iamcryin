@@ -1,6 +1,8 @@
 package com.rincondelbosque.demo.service;
 
+import com.rincondelbosque.demo.dto.response.DetalleFacturaResponse;
 import com.rincondelbosque.demo.dto.response.FacturaResponse;
+
 import java.util.List;
 
 public interface FacturaService {
@@ -8,4 +10,5 @@ public interface FacturaService {
     FacturaResponse obtenerPorId(Integer idFactura);
     FacturaResponse crearFactura(FacturaResponse factura);
     FacturaResponse actualizarFactura(Integer idFactura, FacturaResponse factura);
+    List<DetalleFacturaResponse> listadetalles();
 }
